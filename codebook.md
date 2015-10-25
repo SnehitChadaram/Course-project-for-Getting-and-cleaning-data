@@ -5,7 +5,7 @@ This code book summarizes the resulting data fields in `final.txt`.
 <br />Subject - The ID of the test subject
 <br />Activity- The activity of the person when the corresponding measurements were taken
 <br />
-## Measurements
+## Features which were required
 
  tBodyAcc-mean()-X<br />
  tBodyAcc-mean()-Y<br />
@@ -86,13 +86,13 @@ This code book summarizes the resulting data fields in `final.txt`.
  fBodyBodyGyroJerkMag-mean()<br /><br />
  fBodyBodyGyroJerkMag-std()<br />
  fBodyBodyGyroJerkMag-meanFreq()<br />
-
-
+<br />
+<br />
 ## Activity Labels
 
-`WALKING` (1): subject was walking during the test
-`WALKING_UPSTAIRS` (2): subject was walking up a staircase during the test
-`WALKING_DOWNSTAIRS` (3): subject was walking down a staircase during the test
-`SITTING` (4): subject was sitting during the test
-`STANDING` (5): subject was standing during the test
-`LAYING` (6): subject was laying during the test
+`WALKING` (1): subject was walking during the test<br />
+`WALKING_UPSTAIRS` (2): subject was walking up a staircase during the test<br />
+`WALKING_DOWNSTAIRS` (3): subject was walking down a staircase during the test<br />
+`SITTING` (4): subject was sitting during the test<br />
+`STANDING` (5): subject was standing during the test<br />
+`LAYING` (6): subject was laying during the test<br />
